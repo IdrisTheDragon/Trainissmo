@@ -1,12 +1,14 @@
 
 # Trainissmo
 
-Factories in trains.
+Factory in trains.
 
+## Suggested
 
-Credit to Gerkiz orignal author of the code for the Comfy Mtn Fortress scenario map, [https://github.com/M3wM3w/ComfyFactorio/tree/master/modules/immersive_cargo_wagons] .
+Use alongside Spiderissmo mod [https://github.com/Gerkiz/Spiderissmo] [https://mods.factorio.com/mod/Spiderissmo]
 
-Extracted and packaged as a mod by IdrisTheDragon.
+## Credits
 
-Would be very nice alongside the Spiderissmo mod [https://github.com/Gerkiz/Spiderissmo] [https://mods.factorio.com/mod/Spiderissmo]
+Credit to Gerkiz the orignal author  as part of the Comfy Mtn Fortress scenario map, [https://github.com/M3wM3w/ComfyFactorio/tree/master/modules/immersive_cargo_wagons] .
 
+Extracted and packaged as a mod by IdrisTheDragon for standalone useage.
